@@ -1,6 +1,6 @@
 import mysql.connector
 #testando dnv
-#nao esta funcionando o git
+#nao esta funcionando o git oi
 # Função para conectar ao banco de dados
 def conectar_bd():
     conexao = mysql.connector.connect(
